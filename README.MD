@@ -18,7 +18,7 @@ node src/serve.js
 - O desafio backend foi desenvolvido ultilizando uma versão na nuvem do MongoDb, portanto não tem necessidade de mexer com banco de dados.
 
 ## Teste
-### Testes feito com Insominia
+### Testes feito com Insomnia
 
 - POST Novo naver
 
